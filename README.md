@@ -31,4 +31,9 @@ The idea of this project came in the process of debugging this, it was actually 
  So in this project, we are going back to the 1950s and we are going to have to do a visual disassembly of the program.
  
 #### Quick fact: The first digital computer "Atanasoff-Berry Computer" - 1942 was built here at Iowa State University and i had chance to see that great machine recently.
+
 <img src="/images/Atanasoff-Berry_Computer_at_Durhum_Center.jpg" width="400" />\
+
+## Final Output
+
+<img src="/images/2wl9n5.gif" width="400" />\
