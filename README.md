@@ -34,6 +34,12 @@ The idea of this project came in the process of debugging this, it was actually 
 
 <img src="/images/Atanasoff-Berry_Computer_at_Durhum_Center.jpg" width="400" />\
 
+## Part one
+<p float="left">
+  <img src="/images/2wqs2u.gif" width="400" />
+  <img src="/images/2wqs08.gif" width="400" />
+</p>
+
 ## Final Output
 
 <img src="/images/2wl9n5.gif" width="400" />\
