@@ -56,7 +56,7 @@ The idea of this project came in the process of debugging this, it was actually 
 ### Wait!, why dont we do something more - cool - better ?
 <img src="https://media.giphy.com/media/SfYTJuxdAbsVW/giphy.gif" width="300" />
 
-#### No, without this this project doesnt feel complete; So the idea is that lets log the Important readings into a text file that help us analyze/debug the Bubble sort program that the machine is Running.
+#### No, without this the project doesnt feel complete; So the idea is that lets log the Important readings into a text file that help us analyze/debug the Bubble sort program that the machine is Running.
 
 <img src="https://media.giphy.com/media/l4FGjY2RPEjOu5NNC/source.gif" width="300" />
 
