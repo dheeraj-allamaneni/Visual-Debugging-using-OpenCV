@@ -45,7 +45,7 @@ The idea of this project came in the process of debugging this, it was actually 
 </p>
 
 ## Part Two
-### In this part i have detected which LED is glowing and where , then displayed their value above them.
+### In this part i have detected which LED is glowing and where , then displayed their value below them.
 <p float="left">
   <img src="/images/2wrg8e.gif" width="400" />
   <img src="/images/2wrgpr.gif" width="400" />
